@@ -63,7 +63,9 @@
             <tr>
                 <td><strong>Bai2_Html5Css3</strong></td>
                 <td>04</td>
-                <td></td>
+                <td>
+                    <a href="https://bai2-webcong-c05831591547.herokuapp.com/">linkbai2</a>
+                </td>
             </tr>
             </tbody>
         </table>

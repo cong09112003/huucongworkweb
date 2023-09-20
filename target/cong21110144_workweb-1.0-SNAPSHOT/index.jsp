@@ -56,12 +56,16 @@
             <tr>
                 <td><strong>Bai1_Build1WebOnLocal</strong></td>
                 <td>02</td>
-                <td></td>
+                <td>
+                    <a  href="https://bai1web-cong-786c78483fb4.herokuapp.com/">linkbai1</a>
+                </td>
             </tr>
             <tr>
                 <td><strong>Bai2_Html5Css3</strong></td>
                 <td>04</td>
-                <td></td>
+                <td>
+                    <a href="https://bai2-webcong-c05831591547.herokuapp.com/">linkbai2</a>
+                </td>
             </tr>
             </tbody>
         </table>

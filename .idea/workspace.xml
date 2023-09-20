@@ -12,6 +12,7 @@
     <list default="true" id="c29ca2a1-66a2-47f0-aba6-44caadca1003" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cong21110144_workweb-1.0-SNAPSHOT/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/cong21110144_workweb-1.0-SNAPSHOT/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,7 +196,8 @@
       <workItem from="1695118487612" duration="2025000" />
       <workItem from="1695133837062" duration="2278000" />
       <workItem from="1695139346843" duration="734000" />
-      <workItem from="1695141832401" duration="688000" />
+      <workItem from="1695141832401" duration="1485000" />
+      <workItem from="1695168061574" duration="1720000" />
     </task>
     <servers />
   </component>
